@@ -1,0 +1,31 @@
+.header {
+  /* padding-left: 35%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2vh;
+  font-weight: 30;
+}
+
+.App-header {
+  /* padding-left: 35%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2vh;
+}
+.subheading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 37.5%;
+  margin-bottom: 10vh;
+  margin-top: 2vh;
+  width:25vw;
+}
+
